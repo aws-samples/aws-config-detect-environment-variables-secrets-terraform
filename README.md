@@ -92,7 +92,7 @@ you should first modify the `region` in your AWS Profile in accordance to your r
 
 ## Security
 
-See CONTRIBUTING for more information.
+See [CONTRIBUTING](CONTRIBUTING) for more information.
 
 ## License
 
